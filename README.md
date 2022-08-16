@@ -72,7 +72,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
 </div>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 My Information 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
