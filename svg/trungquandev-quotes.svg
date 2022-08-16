@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 846 500" width="846" height="500" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 846 210" width="846" height="250" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -10,7 +10,7 @@
 					justify-content: top;
 					margin: 0;
 					width: 100%;
-					height: 500px;
+					height: 250px;
           background-color: #20232A;
 					border-radius: 10px;
 					color: white;
